@@ -87,7 +87,7 @@ Educational institutions must also address fairness, privacy, accessibility, tra
 
 <div align="center">
 
-**[📖 View the Complete Paper →](AI in Personalized Learning.pdf)**
+**[📖 View the Complete Paper →](AI_Personalized_Learning.pdf)**
 
 </div>
 
