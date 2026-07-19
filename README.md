@@ -9,7 +9,7 @@
 [![Status](https://img.shields.io/badge/Status-Completed-success)]()
 
 *Author: Kamrun Nahar &nbsp;·&nbsp; Supervisor: Dr. Ing. Stefania Zourlidou*
-*Institute for Web Science & Technologies, University of Koblenz, Germany*
+*Institute for Web Science & Technologies, University of Koblenz, Germany &nbsp;·&nbsp; Winter Semester 2024*
 
 </div>
 
@@ -41,6 +41,7 @@ This repository contains an academic seminar paper examining how artificial inte
 | **Author** | Kamrun Nahar |
 | **Supervisor** | Dr. Ing. Stefania Zourlidou |
 | **Institution** | Institute for Web Science & Technologies, Web and Data Science, University of Koblenz, Germany |
+| **Semester** | Winter Semester 2024 |
 | **Field** | Artificial Intelligence in Education |
 | **Focus** | Personalized learning and educational technology |
 
@@ -105,7 +106,7 @@ Educational institutions must also address fairness, privacy, accessibility, tra
 
 ```text
 ai-personalized-learning-review/
-├── AI_Personalized_Learning_Review.pdf
+├── AI_Personalized_Learning.pdf
 └── README.md
 ```
 
