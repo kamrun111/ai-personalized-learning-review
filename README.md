@@ -17,16 +17,16 @@
 
 ## 🧭 Abstract
 
-This repository contains an academic seminar paper examining how artificial intelligence is reshaping personalized learning and educational technology. The paper surveys AI-enabled educational applications, evaluates the benefits of adaptive and learner-centred systems, and discusses the ethical and practical challenges that must be addressed before such technologies can be responsibly adopted at scale.
+This paper reviews how artificial intelligence is reshaping education through personalized, adaptive learning. It examines how AI-driven platforms adjust content, pacing, and assessment to individual students, drawing on real-world examples such as intelligent tutoring systems, MOOCs, and AI-enhanced language and assessment tools. Alongside the benefits — improved engagement, retention, and access — the paper surveys the unresolved challenges that limit responsible large-scale adoption: data privacy, algorithmic bias, the digital divide, the irreplaceable role of human educators, and AI's current limits in judging creativity and critical thinking. It concludes that realizing AI's potential in education depends less on technical capability alone and more on how equitably, transparently, and collaboratively it is deployed.
 
 ---
 
 ## 📑 Table of Contents
 
 - [Paper Details](#-paper-details)
-- [Review Scope](#-review-scope)
-- [Key Research Challenges](#-key-research-challenges)
-- [Main Perspective](#-main-perspective)
+- [What the Paper Covers](#-what-the-paper-covers)
+- [Research Gaps Identified](#-research-gaps-identified)
+- [Conclusion](#-conclusion)
 - [Research Report](#-research-report)
 - [Repository Contents](#-repository-contents)
 - [Citation](#-citation)
@@ -40,47 +40,46 @@ This repository contains an academic seminar paper examining how artificial inte
 | **Type** | Academic seminar paper |
 | **Author** | Kamrun Nahar |
 | **Supervisor** | Dr. Ing. Stefania Zourlidou |
-| **Institution** | Institute for Web Science & Technologies, Web and Data Science, University of Koblenz, Germany |
+| **Institution** | Institute for Web Science & Technologies, Web and Data Science, University of Koblenz, Koblenz, Rhineland-Palatinate, Germany |
 | **Semester** | Winter Semester 2024 |
 | **Field** | Artificial Intelligence in Education |
-| **Focus** | Personalized learning and educational technology |
+| **References cited** | 32 |
 
 ---
 
-## 🔍 Review Scope
+## 🔍 What the Paper Covers
 
-The paper reviews AI-enabled approaches and technologies across the following areas:
+The paper is structured around an introduction to AI's role in personalized education, a review of two key studies in the field, and an original analysis of open research gaps.
 
 | | |
 |---|---|
-| 🎯 Adaptive and personalized learning systems | 🧑‍🏫 Intelligent tutoring systems |
-| 💬 Natural language processing in education | 📝 Automated assessment and feedback |
-| 📊 Learning analytics and predictive models | 📚 AI-supported curriculum and content generation |
-| 🕶️ Virtual and augmented reality in learning | 🎮 Gamification and learner motivation |
-| 🤝 AI-supported peer interaction | |
+| 🎯 Adaptive learning systems & real-time content adjustment | 🧑‍🏫 Intelligent Tutoring Systems (ITS), e.g. eTutor |
+| 💬 NLP-driven feedback, chatbots & automated essay scoring | 📝 AI-assisted grading, e.g. Gradescope |
+| 📊 MOOCs & AI-personalized course recommendations (Coursera, edX) | 📚 AI-supported curriculum & content generation |
+| 🕶️ Immersive learning with VR/AR simulations | 🎮 Gamification and learner motivation (Duolingo) |
+| 🤝 AI-facilitated peer learning communities | 🧠 Adaptive question generation (e.g. QG-Net) |
 
 ---
 
-## ⚠️ Key Research Challenges
+## ⚠️ Research Gaps Identified
 
-The review identifies several unresolved challenges that influence the responsible use of AI in education:
+The paper's core contribution is a focused look at five unresolved challenges standing in the way of responsible, large-scale AI adoption in education:
 
-| Challenge | Consideration |
+| Challenge | Why It Matters |
 |---|---|
-| 🔒 Data privacy and security | Protecting sensitive student data collected by adaptive systems |
-| ⚖️ Algorithmic bias and fairness | Ensuring equitable outcomes across diverse learner populations |
-| 🌐 Digital access inequality | Addressing gaps in infrastructure and device availability |
-| 👨‍🏫 Role of human educators | Preserving the value of teacher judgment and mentorship |
-| 🎨 Assessing creativity and critical thinking | Recognizing the limits of automated evaluation |
-| 🏛️ AI governance and transparency | Establishing accountable, explainable decision-making systems |
+| 🔒 Data privacy & ethical AI implementation | Educational platforms collect sensitive performance and behavioral data, often without clear institutional privacy policies |
+| ⚖️ Algorithmic bias & fairness | Models trained on non-representative data risk disadvantaging students by language, background, or ability |
+| 🌐 The digital divide | Unequal access to devices and connectivity limits who can actually benefit from AI-enhanced learning |
+| 👨‍🏫 The role of human educators | AI can personalize content, but lacks the empathy, mentorship, and motivation that human teachers provide |
+| 🎨 Assessing creativity & critical thinking | AI evaluates structured tasks well but struggles to judge open-ended, original, or abstract reasoning |
 
 ---
 
-## 💡 Main Perspective
+## 💡 Conclusion
 
-> ✨ *AI can make education more adaptive, scalable, and responsive to individual learners. However, effective adoption requires more than technical capability.*
+> ✨ *AI has meaningfully improved how personalized, accessible, and engaging education can be — but its benefits are not yet distributed fairly, and its limitations are not yet fully solved.*
 
-Educational institutions must also address fairness, privacy, accessibility, transparency, and the appropriate balance between automated systems and human teaching. Technical sophistication alone does not guarantee educational value — responsible implementation is equally dependent on institutional policy, pedagogical design, and ongoing human oversight.
+The paper argues that the path forward is not full automation, but **hybrid AI-human models**, where AI handles adaptive content delivery and administrative tasks while educators focus on mentorship, emotional support, and higher-order thinking. Closing the digital divide, mitigating algorithmic bias, and establishing clear data-privacy safeguards are identified as prerequisites — not afterthoughts — for equitable AI adoption in education.
 
 ---
 
@@ -98,7 +97,7 @@ Educational institutions must also address fairness, privacy, accessibility, tra
 
 ## 🏷️ Keywords
 
-`Artificial Intelligence` `Personalized Learning` `Educational Technology` `Machine Learning` `Adaptive Learning` `Learning Analytics` `AI Ethics`
+`Artificial Intelligence` `Personalized Learning` `Educational Technology` `Machine Learning` `Adaptive Learning` `AI Ethics` `Learning Analytics`
 
 ---
 
@@ -117,8 +116,8 @@ This repository currently contains the review paper only. It does not include an
 ## 📚 Citation
 
 ```text
-Nahar, K. AI in Personalized Learning:
-A Review of Personalized Learning and Educational Technology.
+Nahar, K. AI in Personalized Learning: A Review of Personalized
+Learning and Educational Technology. University of Koblenz, 2024.
 (Supervised by Dr. Ing. S. Zourlidou)
 ```
 
