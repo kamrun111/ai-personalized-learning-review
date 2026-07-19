@@ -5,22 +5,13 @@
 
 [![Type](https://img.shields.io/badge/Type-Seminar%20Paper-blue)]()
 [![Field](https://img.shields.io/badge/Field-AI%20in%20Education-8A2BE2)]()
-[![Institution](https://img.shields.io/badge/University-Koblenz-informational)]()
+[![University](https://img.shields.io/badge/University-Koblenz-informational)]()
 [![Status](https://img.shields.io/badge/Status-Completed-success)]()
 
+*Author: Kamrun Nahar &nbsp;·&nbsp; Supervisor: Dr. Ing. Stefania Zourlidou*
+*Institute for Web Science & Technologies, University of Koblenz, Germany*
+
 </div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">👩‍🎓<br><b>Author</b><br>Kamrun Nahar</td>
-<td align="center">🧑‍🏫<br><b>Supervisor</b><br>Dr. Ing. Stefania Zourlidou</td>
-<td align="center">🏛️<br><b>Institution</b><br>Web Science &amp; Technologies, University of Koblenz</td>
-</tr>
-</table>
-
-<br>
 
 ---
 
@@ -32,18 +23,17 @@ This repository contains an academic seminar paper examining how artificial inte
 
 ## 📑 Table of Contents
 
-1. [Paper at a Glance](#-paper-at-a-glance)
-2. [Review Scope](#-review-scope)
-3. [Key Research Challenges](#-key-research-challenges)
-4. [Main Perspective](#-main-perspective)
-5. [Authorship](#-authorship)
-6. [Research Report](#-research-report)
-7. [Repository Contents](#-repository-contents)
-8. [Citation](#-citation)
+- [Paper Details](#-paper-details)
+- [Review Scope](#-review-scope)
+- [Key Research Challenges](#-key-research-challenges)
+- [Main Perspective](#-main-perspective)
+- [Research Report](#-research-report)
+- [Repository Contents](#-repository-contents)
+- [Citation](#-citation)
 
 ---
 
-## 📌 Paper at a Glance
+## 📌 Paper Details
 
 | | |
 |---|---|
@@ -51,7 +41,7 @@ This repository contains an academic seminar paper examining how artificial inte
 | **Author** | Kamrun Nahar |
 | **Supervisor** | Dr. Ing. Stefania Zourlidou |
 | **Institution** | Institute for Web Science & Technologies, Web and Data Science, University of Koblenz, Germany |
-| **Primary field** | Artificial Intelligence in Education |
+| **Field** | Artificial Intelligence in Education |
 | **Focus** | Personalized learning and educational technology |
 
 ---
@@ -93,17 +83,6 @@ Educational institutions must also address fairness, privacy, accessibility, tra
 
 ---
 
-## 🧑‍🤝‍🧑 Authorship
-
-| Name | Role |
-|---|---|
-| 👩‍🎓 **Kamrun Nahar** | Author |
-| 🧑‍🏫 **Dr. Ing. Stefania Zourlidou** | Supervisor |
-
-This academic seminar paper was written by Kamrun Nahar under the supervision of Dr. Ing. Stefania Zourlidou. The repository is presented as a research and writing portfolio item rather than as a software implementation.
-
----
-
 ## 📄 Research Report
 
 <div align="center">
@@ -130,6 +109,8 @@ ai-personalized-learning-review/
 └── README.md
 ```
 
+This repository currently contains the review paper only. It does not include an experimental dataset, executable code, or a deployed AI system.
+
 ---
 
 ## 📚 Citation
@@ -141,12 +122,6 @@ A Review of Personalized Learning and Educational Technology.
 ```
 
 ---
-
-## ℹ️ Note
-
-This repository currently contains the review paper only. It does not include an experimental dataset, executable code, or a deployed AI system.
-
-<br>
 
 <div align="center">
 <sub>Institute for Web Science &amp; Technologies · University of Koblenz, Germany</sub>
