@@ -8,7 +8,7 @@ This repository contains a review paper examining how artificial intelligence is
 
 | Item | Details |
 |---|---|
-| **Type** | Academic review paper |
+| **Type** | Academic seminar paper |
 | **Authors** | Kamrun Nahar and Dr. Ing. Stefania Zourlidou |
 | **Institution** | Institute for Web Science & Technologies, Web and Data Science, University of Koblenz, Germany |
 | **Primary field** | Artificial Intelligence in Education |
@@ -48,7 +48,7 @@ AI can make education more adaptive, scalable, and responsive to individual lear
 **Kamrun Nahar** — Co-author  
 **Dr. Ing. Stefania Zourlidou** — Co-author
 
-This is a **two-author academic review paper**. The repository is presented as a research and writing portfolio item rather than as a software implementation.
+This is a **two-author academic seminar paper**. The repository is presented as a research and writing portfolio item rather than as a software implementation.
 
 ## Research Report
 
